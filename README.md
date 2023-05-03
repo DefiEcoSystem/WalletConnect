@@ -1,2 +1,2 @@
 # WalletConnect
-HTML5 & Javascript example of conecction with WalletConnect
+HTML5 & ReactJS example of conecction with WalletConnect
